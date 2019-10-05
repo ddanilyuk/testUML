@@ -1,9 +1,5 @@
 @startuml
-!$ab = "foo1"
-!$cd = "foo2"
-!global $ef = $ab + $cd
-
-Alice -> Bob : $ab
-Alice -> Bob : $cd
-Alice -> Bob : $ef
+start
+:Hello world;
+stop
 @enduml
